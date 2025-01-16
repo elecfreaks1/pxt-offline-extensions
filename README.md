@@ -20,11 +20,11 @@ To use our extensions with the offline MakeCode editor, follow these steps:
 
    - Navigate to the "Extensions" page.
 
-     ![image](.\assest\image-1.png)
+     ![image](assest/image-1.png)
 
    - Select "Import File" option.
 
-     ![image](.\assest\image-2.png)
+     ![image](assest/image-2.png)
 
    - Browse and select the downloaded `.hex` file.
 
